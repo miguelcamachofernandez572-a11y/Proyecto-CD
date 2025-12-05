@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 780,
+      "unidad de medida":"100U",
+      "categoria": "Higiene",
+      "marca": "Baby Mell",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 5000,
+      "unidad de medida":"8U",
+      "categoria": "Higiene",
+      "marca": "TB-Care",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 290,
+      "unidad de medida":"8U",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 2400,
+      "unidad de medida":"1Kg",
+      "categoria": "alimentos",
+      "marca": "Sears",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 900,
+      "unidad de medida":"500Gr",
+      "categoria": "alimentos",
+      "marca": "Mulata",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3100,
+      "unidad de medida":"30U",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 1200,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "Blognee",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible":false,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 600,
+      "unidad de medida":"1Kg",
+      "categoria": "alimentos",
+      "marca": "Tiojo",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 750,
+      "unidad de medida":"500Gr",
+      "categoria": "alimentos",
+      "marca": "Penelas",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 920,
+      "unidad de medida":"1LT",
+      "categoria": "alimentos",
+      "marca": "Coam",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas ",
+      "precio": 750,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "Oylum",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}

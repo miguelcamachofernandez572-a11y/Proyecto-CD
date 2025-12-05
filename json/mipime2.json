@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": true
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 700,
+      "unidad de medida":80,
+      "categoria": "Higiene",
+      "marca": "MI-AT",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "Higiene",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 350,
+      "unidad de medida":8,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 1600,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "Leche en Polvo",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 900,
+      "unidad de medida":"1LT",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4100,
+      "unidad de medida":"2KG",
+      "categoria": "alimentos",
+      "marca": "Bem",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3200,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 160,
+      "unidad de medida":"70gr",
+      "categoria": "alimentos",
+      "marca": "Keat",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 580,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "Rahinal",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 450,
+      "unidad de medida":"450Gr",
+      "categoria": "alimentos",
+      "marca": "Gaiteiro",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 1200,
+      "unidad de medida":"240gr",
+      "categoria": "alimentos",
+      "marca": "Space pop",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas",
+      "precio": 1200,
+      "unidad de medida":"1U",
+      "categoria": "alimentos",
+      "marca": "Saltinas",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}

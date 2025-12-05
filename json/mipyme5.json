@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": true
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 600,
+      "unidad de medida":"80u",
+      "categoria": "Higiene",
+      "marca": "My-AT",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "Higiene",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 230,
+      "unidad de medida":"8u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 850,
+      "unidad de medida":"1L",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 2400,
+      "unidad de medida":"1.5kg",
+      "categoria": "alimentos",
+      "marca": "Pedriz",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 380,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "cocinero",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3100,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 200,
+      "unidad de medida":"800gr",
+      "categoria": "alimentos",
+      "marca": "Melans",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 650,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "Polidinho",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 780,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "Grueso",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 990,
+      "unidad de medida":"1L",
+      "categoria": "alimentos",
+      "marca": "Vima",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas integrales",
+      "precio": 750,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "Oplem",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}
