@@ -1,0 +1,157 @@
+{
+  "localizacion": "23.13122° N, 82.37632° O ",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 750,
+      "unidad de medida":"100u",
+      "categoria": "Higiene",
+      "marca": "baby-mell",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "Higiene",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 230,
+      "unidad de medida":"6u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 1350,
+      "unidad de medida":"1l",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 700,
+      "unidad de medida":"1l",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3150,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 1000,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "blognee",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 280,
+      "unidad de medida":"70gm",
+      "categoria": "alimentos",
+      "marca": "keat",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 800,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "carolina",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 990,
+      "unidad de medida":"1l",
+      "categoria": "alimentos",
+      "marca": "vima",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 650,
+      "unidad de medida":"400gr",
+      "categoria": "alimentos",
+      "marca": "ganohn",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas ",
+      "precio": 270,
+      "unidad de medida":"100gr",
+      "categoria": "alimentos",
+      "marca": "craker",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}

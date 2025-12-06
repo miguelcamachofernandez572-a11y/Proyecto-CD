@@ -1,0 +1,157 @@
+{
+  "localizacion": "23.13372° N, 82.37797° O ",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 900,
+      "unidad de medida":"120u",
+      "categoria": "Higiene",
+      "marca": "tb-kids",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio":4900,
+      "unidad de medida":"8u",
+      "categoria": "Higiene",
+      "marca": "tb-care",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 1100,
+      "unidad de medida":"1lt",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 850,
+      "unidad de medida":"1lt",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4500,
+      "unidad de medida":"2kg",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 460,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "cocinero",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 2100,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 500,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "rhainal",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 850,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "plato rico",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 110,
+      "unidad de medida":"240gr",
+      "categoria": "alimentos",
+      "marca": "space pop",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas ",
+      "precio": 900,
+      "unidad de medida":"595gr",
+      "categoria": "alimentos",
+      "marca": "crokatinas",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}

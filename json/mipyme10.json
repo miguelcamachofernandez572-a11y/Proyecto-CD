@@ -1,0 +1,157 @@
+{
+  "localizacion": "23.13466° N, 82.37827° O ",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 1000,
+      "unidad de medida":"120u",
+      "categoria": "Higiene",
+      "marca": "tb-kids",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 5200,
+      "unidad de medida":"8u",
+      "categoria": "Higiene",
+      "marca": "tb-care",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 290,
+      "unidad de medida":"8u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4000,
+      "unidad de medida":"2kg",
+      "categoria": "alimentos",
+      "marca": "bem",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 460,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "guibon soogr",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3200,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 250,
+      "unidad de medida":"70gr",
+      "categoria": "alimentos",
+      "marca": "keat",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 580,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "tiojo",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 800,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "la merced",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 1000,
+      "unidad de medida":"1lt",
+      "categoria": "alimentos",
+      "marca": "vima",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio": 1200,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "La cosecha",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas ",
+      "precio": 980,
+      "unidad de medida":"595gr",
+      "categoria": "alimentos",
+      "marca": "crokatinas",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}
