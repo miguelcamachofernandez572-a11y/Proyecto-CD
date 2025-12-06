@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": true
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "Higiene",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 0.00,
+      "unidad de medida":0,
+      "categoria": "Higiene",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 400,
+      "unidad de medida":"8u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 1600,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 800,
+      "unidad de medida":"1lt",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4100,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "bem",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 500,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "cocinero",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3000,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 2200,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "gooda",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 600,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "plato rico",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 550,
+      "unidad de medida":"450gr",
+      "categoria": "alimentos",
+      "marca": "gaiteiro",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 800,
+      "unidad de medida":"700ml",
+      "categoria": "alimentos",
+      "marca": "zer",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio":0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas",
+      "precio": 1200,
+      "unidad de medida":"595gr",
+      "categoria": "alimentos",
+      "marca": "salticraker",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}

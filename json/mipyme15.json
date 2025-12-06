@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 780,
+      "unidad de medida":"80u",
+      "categoria": "Higiene",
+      "marca": "baby-mell",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 5500,
+      "unidad de medida":"8u",
+      "categoria": "Higiene",
+      "marca": "tb-care",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 250,
+      "unidad de medida":"6u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio": 1100,
+      "unidad de medida":"1lt",
+      "categoria": "alimentos",
+      "marca": "vima",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 800,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4300,
+      "unidad de medida":"2kg",
+      "categoria": "alimentos",
+      "marca": "nicoly",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 900,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "mulata",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 800,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "la merced",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio":0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible":false,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas",
+      "precio": 1200,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "salticraker",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}
