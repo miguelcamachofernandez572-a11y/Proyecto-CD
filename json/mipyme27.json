@@ -1,0 +1,157 @@
+{
+  "localizacion": "",
+  "servicio_a_domicilio": {
+    "valor": false
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Toallitas húmedas",
+      "precio": 600,
+      "unidad de medida":"60u",
+      "categoria": "Higiene",
+      "marca": "tena",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 2,
+      "nombre": "Pañales",
+      "precio": 4200,
+      "unidad de medida":"8u",
+      "categoria": "Higiene",
+      "marca": "comfortime",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 3,
+      "nombre": "Pan",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 4,
+      "nombre": "Leche",
+      "precio":0.00 ,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 5,
+      "nombre": "yogurt",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 6,
+      "nombre": "pollo",
+      "precio": 4500,
+      "unidad de medida":"2kg",
+      "categoria": "alimentos",
+      "marca": "aurora",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 7,
+      "nombre": "picadillo",
+      "precio": 350,
+      "unidad de medida":"500gr",
+      "categoria": "alimentos",
+      "marca": "cocinero",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 8,
+      "nombre": "huevo",
+      "precio": 3100,
+      "unidad de medida":"30u",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible": false,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 200,
+      "unidad de medida":"85gr",
+      "categoria": "alimentos",
+      "marca": "melans",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 11,
+      "nombre": "arroz",
+      "precio": 550,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "rampinelli",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 12,
+      "nombre": "frijoles",
+      "precio": 900,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "plato ricco",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 13,
+      "nombre": "aceite",
+      "precio": 850,
+      "unidad de medida":"1l",
+      "categoria": "alimentos",
+      "marca": "sor",
+      "disponible": true,
+      "descuento": 0.0
+    },{
+      "id": 14,
+      "nombre": "cereales",
+      "precio":0.00,
+      "unidad de medida":"",
+      "categoria": "alimentos",
+      "marca": "",
+      "disponible":false,
+      "descuento": 0.0
+    },
+    {
+      "id": 15,
+      "nombre": "galletas",
+      "precio": 200,
+      "unidad de medida":"270gr",
+      "categoria": "alimentos",
+      "marca": "festival",
+      "disponible": true,
+      "descuento": 0.0
+    }
+    ]
+}
