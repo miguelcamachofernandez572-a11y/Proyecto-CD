@@ -21,7 +21,7 @@ def promedio_precios(lista_rutas):
 
 # --- Ejemplo de uso ---
 carpeta = r"C:\miguel\Proyecto CD\json"
-archivos = [os.path.join(carpeta, f"mipyme{i}.json") for i in range(1, 21)]
+archivos = [os.path.join(carpeta, f"mipyme{i}.json") for i in range(1, 26)]
 
 promedio = promedio_precios(archivos)
 print("El precio promedio de los productos disponibles es:", promedio)

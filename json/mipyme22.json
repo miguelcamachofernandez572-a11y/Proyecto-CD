@@ -7,11 +7,11 @@
     {
       "id": 1,
       "nombre": "Toallitas húmedas",
-      "precio": 780,
-      "unidad de medida":"60",
+      "precio": 0.00,
+      "unidad de medida":"",
       "categoria": "Higiene",
-      "marca": "tb care",
-      "disponible": true,
+      "marca": "",
+      "disponible": false,
       "descuento": 0.0
     },
     {
@@ -37,17 +37,17 @@
     {
       "id": 4,
       "nombre": "Leche",
-      "precio": 0.00,
-      "unidad de medida":"",
+      "precio": 2600,
+      "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "",
-      "disponible": false,
+      "marca": "pure milk",
+      "disponible": true,
       "descuento": 0.0
     },
     {
       "id": 5,
       "nombre": "yogurt",
-      "precio": 200,
+      "precio": 250,
       "unidad de medida":"125gr",
       "categoria": "alimentos",
       "marca": "asturiana",
@@ -57,46 +57,26 @@
     {
       "id": 6,
       "nombre": "pollo",
-      "precio": 5500,
-      "unidad de medida":"5kg",
+      "precio": 4500,
+      "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "natures",
+      "marca": "aurora",
       "disponible": true,
       "descuento": 0.0
     },
     {
       "id": 7,
       "nombre": "picadillo",
-      "precio": 1500,
-      "unidad de medida":"1kg",
+      "precio": 750,
+      "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "peco",
+      "marca": "mulata",
       "disponible": true,
       "descuento": 0.0
     },
     {
       "id": 8,
       "nombre": "huevo",
-      "precio": 2900,
-      "unidad de medida":"30u",
-      "categoria": "alimentos",
-      "marca": "",
-      "disponible": true,
-      "descuento": 0.0
-    },
-    {
-      "id": 9,
-      "nombre": "queso",
-      "precio": 2200,
-      "unidad de medida":"1lb",
-      "categoria": "alimentos",
-      "marca": "super yu",
-      "disponible": true,
-      "descuento": 0.0
-    },
-    {
-      "id": 10,
-      "nombre": "sopas",
       "precio": 0.00,
       "unidad de medida":"",
       "categoria": "alimentos",
@@ -105,32 +85,52 @@
       "descuento": 0.0
     },
     {
+      "id": 9,
+      "nombre": "queso",
+      "precio": 2000,
+      "unidad de medida":"1kg",
+      "categoria": "alimentos",
+      "marca": "blognee",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
+      "id": 10,
+      "nombre": "sopas",
+      "precio": 200,
+      "unidad de medida":"50gr",
+      "categoria": "alimentos",
+      "marca": "kaldini",
+      "disponible": true,
+      "descuento": 0.0
+    },
+    {
       "id": 11,
       "nombre": "arroz",
-      "precio": 700,
-      "unidad de medida":"900gr",
+      "precio": 650,
+      "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "iberia",
+      "marca": "plato rico",
       "disponible": true,
       "descuento": 0.0
     },
     {
       "id": 12,
       "nombre": "frijoles",
-      "precio": 800,
-      "unidad de medida":"500gr",
+      "precio": 0.00,
+      "unidad de medida":"",
       "categoria": "alimentos",
-      "marca": "la pedriza",
-      "disponible": true,
+      "marca": "",
+      "disponible": false,
       "descuento": 0.0
     },
     {
       "id": 13,
       "nombre": "aceite",
-      "precio": 980,
-      "unidad de medida":"1lt",
+      "precio": 890,
+      "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "hysa",
+      "marca": "kadoo",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -146,11 +146,11 @@
     {
       "id": 15,
       "nombre": "galletas",
-      "precio": 0.00,
-      "unidad de medida":"",
+      "precio": 850,
+      "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "",
-      "disponible": false,
+      "marca": "oylum",
+      "disponible": true,
       "descuento": 0.0
     }
     ]
