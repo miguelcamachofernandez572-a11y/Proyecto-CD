@@ -45,3 +45,13 @@ def grafico_precio_promedio_vs_pension_minima(diccionario):
     plt.title("Precio promedio de productos")
     plt.annotate("Pensión Mínima: 3056",(1,3000),(0,2800),arrowprops={"arrowstyle":"->"})
     plt.show()
+
+def grafico_precio_promedio_vs_pension_minima(diccionario):
+    keys = diccionario.keys()
+    values = diccionario.values()
+
+    plt.bar(keys,values,color="#6a4d57")
+    plt.axhline(y=3056,color="#9c9386",ls="--")
+    plt.title("Precio promedio de productos")
+    plt.annotate("Pensión Mínima: 3056",(1,3000),(0,2800),arrowprops={"arrowstyle":"->"})
+    plt.show()
