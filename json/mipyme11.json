@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.13223, -82.36775",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 800,
       "unidad de medida":"72u",
       "categoria": "Higiene",
-      "marca": "dec",
+      "marca": "Dec",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 1200,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 2300,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "sears",
+      "marca": "Sears",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 400,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "guibon soogr",
+      "marca": "Guibon Soogr",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"70gr",
       "categoria": "alimentos",
-      "marca": "melans",
+      "marca": "Melans",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "polidinho",
+      "marca": "Polidinho",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "grueso",
+      "marca": "Grueso",
       "disponible": true,
       "descuento": 0.0
     },
@@ -139,7 +139,7 @@
       "precio":1300,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "la alteza",
+      "marca": "La Alteza",
       "disponible": true,
       "descuento": 0.0
     },

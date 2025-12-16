@@ -10,7 +10,7 @@
       "precio": 1000,
       "unidad de medida":"120u",
       "categoria": "Higiene",
-      "marca": "lulla",
+      "marca": "Lulla",
       "disponible": true,
       "descuento": 0.0
     },
@@ -20,7 +20,7 @@
       "precio": 5500,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "tb care",
+      "marca": "Tb_Care",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 1200,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "pure milk",
+      "marca": "Pure Milk",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4100,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "bem",
+      "marca": "Bem",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 900,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "bravo",
+      "marca": "Bravo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 200,
       "unidad de medida":"70gr",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 650,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "pateko",
+      "marca": "Pateko",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "carolina",
+      "marca": "Carolina",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 950,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"800gr",
       "categoria": "alimentos",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

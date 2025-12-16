@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":"80u",
       "categoria": "Higiene",
-      "marca": "My-AT",
+      "marca": "My-At",
       "disponible": true,
       "descuento": 0.0
     },
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "nombre": "Pan",
-      "precio": 230,
+      "precio": 250,
       "unidad de medida":"8u",
       "categoria": "alimentos",
       "marca": "",
@@ -70,7 +70,7 @@
       "precio": 380,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },

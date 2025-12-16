@@ -10,7 +10,7 @@
       "precio": 1000,
       "unidad de medida":"120u",
       "categoria": "Higiene",
-      "marca": "tb-kids",
+      "marca": "Tb-Kids",
       "disponible": true,
       "descuento": 0.0
     },
@@ -20,7 +20,7 @@
       "precio": 5200,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "tb-care",
+      "marca": "Tb-Care",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4000,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "bem",
+      "marca": "Bem",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 460,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "guibon soogr",
+      "marca": "Guibon Soogr",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"70gr",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 580,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "tiojo",
+      "marca": "Tiojo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "la merced",
+      "marca": "La Merced",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 1000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio": 1200,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "La cosecha",
+      "marca": "La Cosecha",
       "disponible": true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 980,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "crokatinas",
+      "marca": "Crokatinas",
       "disponible": true,
       "descuento": 0.0
     }

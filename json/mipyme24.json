@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.13556, -82.38728",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -20,7 +20,7 @@
       "precio": 4500,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "prevail",
+      "marca": "Prevail",
       "disponible": true,
       "descuento": 0.0
     },
@@ -50,7 +50,7 @@
       "precio": 1300,
       "unidad de medida":"1.5lt",
       "categoria": "alimentos",
-      "marca": "probiotico",
+      "marca": "Probiotico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4500,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "seara",
+      "marca": "Seara",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 850,
       "unidad de medida":"400gr",
       "categoria": "alimentos",
-      "marca": "bravo",
+      "marca": "Bravo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2300,
       "unidad de medida":"1.10kg",
       "categoria": "alimentos",
-      "marca": "super yu",
+      "marca": "Super Yu",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "vivo",
+      "marca": "Vivo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 700,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "don jose",
+      "marca": "Don Jose",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 950,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 200,
       "unidad de medida":"294gr",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     }

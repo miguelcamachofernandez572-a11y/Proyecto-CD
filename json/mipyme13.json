@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.14135, -82.37914",
   "servicio_a_domicilio": {
     "valor": true
   },
@@ -60,7 +60,7 @@
       "precio": 4100,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "bem",
+      "marca": "Bem",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 500,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2200,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "plato rico",
+      "marca": "Plato Rico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 550,
       "unidad de medida":"450gr",
       "categoria": "alimentos",
-      "marca": "gaiteiro",
+      "marca": "Gaiteiro",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 800,
       "unidad de medida":"700ml",
       "categoria": "alimentos",
-      "marca": "zer",
+      "marca": "Zer",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "salticraker",
+      "marca": "Salticraker",
       "disponible": true,
       "descuento": 0.0
     }

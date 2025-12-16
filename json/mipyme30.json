@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":"60u",
       "categoria": "Higiene",
-      "marca": "tena",
+      "marca": "Tena",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 1000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4000,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "nicoly",
+      "marca": "Nicoly",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 1400,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "peco",
+      "marca": "Peco",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"85gr",
       "categoria": "alimentos",
-      "marca": "melans",
+      "marca": "Melans",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "tiojo",
+      "marca": "Tiojo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 950,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":1250,
       "unidad de medida":"",
       "categoria": "alimentos",
-      "marca": "space pop",
+      "marca": "Space Pop",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 900,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.13933, -82.38462",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 950,
       "unidad de medida":"120u",
       "categoria": "Higiene",
-      "marca": "tb kids",
+      "marca": "Tb_Kids",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio":1400 ,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 2300,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "nat",
+      "marca": "Nat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2200,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"70gr",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 750,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "iberiea",
+      "marca": "Iberiea",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 500,
       "unidad de medida":"450gr",
       "categoria": "alimentos",
-      "marca": "gaiteiro",
+      "marca": "Gaiteiro",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 900,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "kadoo",
+      "marca": "Kadoo",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":500,
       "unidad de medida":"346gr",
       "categoria": "alimentos",
-      "marca": "kiggins",
+      "marca": "Kiggins",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 270,
       "unidad de medida":"100gr",
       "categoria": "alimentos",
-      "marca": "craker",
+      "marca": "Craker",
       "disponible": true,
       "descuento": 0.0
     }

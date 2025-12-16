@@ -10,7 +10,7 @@
       "precio": 1000,
       "unidad de medida":"120u",
       "categoria": "Higiene",
-      "marca": "tb kids",
+      "marca": "Tb_Kids",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 2000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "macro food",
+      "marca": "Macro Food",
       "disponible": true,
       "descuento": 0.0
     },
@@ -50,7 +50,7 @@
       "precio": 1000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "probiotico",
+      "marca": "Probiotico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 400,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2000,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "super yu",
+      "marca": "Super Yu",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 160,
       "unidad de medida":"85gr",
       "categoria": "alimentos",
-      "marca": "kaldini",
+      "marca": "Kaldini",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 990,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 900,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "hysa",
+      "marca": "Hysa",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"800gr",
       "categoria": "alimentos",
-      "marca": "vivo",
+      "marca": "Vivo",
       "disponible": true,
       "descuento": 0.0
     }

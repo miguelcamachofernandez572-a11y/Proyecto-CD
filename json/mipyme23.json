@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.14099, -82.38469",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -40,7 +40,7 @@
       "precio": 1300,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -50,7 +50,7 @@
       "precio": 250,
       "unidad de medida":"125gr",
       "categoria": "alimentos",
-      "marca": "yoqo",
+      "marca": "Yoqo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 2500,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "sears",
+      "marca": "Sears",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 500,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 200,
       "unidad de medida":"50gr",
       "categoria": "alimentos",
-      "marca": "calnort",
+      "marca": "Calnort",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 670,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "polidinho",
+      "marca": "Polidinho",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 700,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "grueso",
+      "marca": "Grueso",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 900,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "saude",
+      "marca": "Saude",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 850,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "crokatinas",
+      "marca": "Crokatinas",
       "disponible": true,
       "descuento": 0.0
     }

@@ -27,7 +27,7 @@
     {
       "id": 3,
       "nombre": "Pan",
-      "precio": 300,
+      "precio": 500,
       "unidad de medida":"8u",
       "categoria": "alimentos",
       "marca": "",
@@ -70,7 +70,7 @@
       "precio":400,
       "unidad de medida":"500gm",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2000,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "plato rico",
+      "marca": "Plato rico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "el campo",
+      "marca": "El Campo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 770,
       "unidad de medida":"700ml",
       "categoria": "alimentos",
-      "marca": "zer",
+      "marca": "Zer",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 900,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

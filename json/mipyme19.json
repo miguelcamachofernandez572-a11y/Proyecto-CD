@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.13498, -82.38796",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 800,
       "unidad de medida":"60",
       "categoria": "Higiene",
-      "marca": "cotidian",
+      "marca": "Cotidian",
       "disponible": true,
       "descuento": 0.0
     },
@@ -20,7 +20,7 @@
       "precio": 4400,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "prevail",
+      "marca": "Prevail",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 2500,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "macro fut",
+      "marca": "Macro fut",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 7500,
       "unidad de medida":"10kg",
       "categoria": "alimentos",
-      "marca": "tyson",
+      "marca": "Tyson",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "bravo",
+      "marca": "Bravo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2300,
       "unidad de medida":"1lb",
       "categoria": "alimentos",
-      "marca": "gouda",
+      "marca": "Gouda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 160,
       "unidad de medida":"50gr",
       "categoria": "alimentos",
-      "marca": "kaldin",
+      "marca": "Kaldin",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 580,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "vivo",
+      "marca": "Vivo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 890,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "saude",
+      "marca": "Saude",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":550,
       "unidad de medida":"346gr",
       "categoria": "alimentos",
-      "marca": "kiggins",
+      "marca": "Kiggins",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 150,
       "unidad de medida":"200gr",
       "categoria": "alimentos",
-      "marca": "festival",
+      "marca": "Festival",
       "disponible": true,
       "descuento": 0.0
     }

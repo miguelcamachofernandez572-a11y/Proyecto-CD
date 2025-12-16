@@ -10,7 +10,7 @@
       "precio": 720,
       "unidad de medida":"90u",
       "categoria": "Higiene",
-      "marca": "dec",
+      "marca": "Dec",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 2600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "pedriz",
+      "marca": "Pedriz",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 950,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "mulata",
+      "marca": "Mulata",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"70gm",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "polindito",
+      "marca": "Polindito",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 820,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "don jose",
+      "marca": "Don Jose",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 890,
       "unidad de medida":"900ml",
       "categoria": "alimentos",
-      "marca": "casaliva",
+      "marca": "Casaliva",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio": 1300,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "alteza",
+      "marca": "Alteza",
       "disponible": true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 1300,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "crokatinas",
+      "marca": "Crokatinas",
       "disponible": true,
       "descuento": 0.0
     }

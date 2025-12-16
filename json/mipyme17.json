@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.13948, -82.3747",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 800,
       "unidad de medida":"120",
       "categoria": "Higiene",
-      "marca": "lulla",
+      "marca": "Lulla",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 3500,
       "unidad de medida":"1.5lt",
       "categoria": "alimentos",
-      "marca": "pure milk",
+      "marca": "Pure Milk",
       "disponible": true,
       "descuento": 0.0
     },
@@ -50,7 +50,7 @@
       "precio": 225,
       "unidad de medida":"125gm",
       "categoria": "alimentos",
-      "marca": "yoko",
+      "marca": "Yoko",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4000,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "bem",
+      "marca": "Bem",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 900,
       "unidad de medida":"400gm",
       "categoria": "alimentos",
-      "marca": "bravo",
+      "marca": "Bravo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 500,
       "unidad de medida":"66gm",
       "categoria": "alimentos",
-      "marca": "calnort",
+      "marca": "Calnort",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "peco",
+      "marca": "Peco",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 3500,
       "unidad de medida":"3.5lt",
       "categoria": "alimentos",
-      "marca": "sarita",
+      "marca": "Sarita",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":800,
       "unidad de medida":"150gr",
       "categoria": "alimentos",
-      "marca": "apti",
+      "marca": "Apti",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"800gr",
       "categoria": "alimentos",
-      "marca": "vivos",
+      "marca": "Vivos",
       "disponible": true,
       "descuento": 0.0
     }

@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.14144, -82.37349",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":"80u",
       "categoria": "Higiene",
-      "marca": "my-at",
+      "marca": "My-At",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4300,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "",
+      "marca": "Bem",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2000,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"70gr",
       "categoria": "alimentos",
-      "marca": "melans",
+      "marca": "Melans",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 600,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "tiojo",
+      "marca": "Tiojo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 750,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "el campo",
+      "marca": "El Campo",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 990,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

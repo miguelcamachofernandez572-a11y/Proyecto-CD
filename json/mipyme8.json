@@ -10,7 +10,7 @@
       "precio": 750,
       "unidad de medida":"100u",
       "categoria": "Higiene",
-      "marca": "baby-mell",
+      "marca": "Baby-Mell",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 1000,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "blognee",
+      "marca": "Blognee",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 280,
       "unidad de medida":"70gm",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "carolina",
+      "marca": "Carolina",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 990,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio": 650,
       "unidad de medida":"400gr",
       "categoria": "alimentos",
-      "marca": "ganohn",
+      "marca": "Ganohn",
       "disponible": true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 270,
       "unidad de medida":"100gr",
       "categoria": "alimentos",
-      "marca": "craker",
+      "marca": "Craker",
       "disponible": true,
       "descuento": 0.0
     }

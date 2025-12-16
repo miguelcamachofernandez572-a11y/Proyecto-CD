@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.14238, -82.38536",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -20,7 +20,7 @@
       "precio": 4000,
       "unidad de medida":"10u",
       "categoria": "Higiene",
-      "marca": "confortime",
+      "marca": "Confortime",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 2000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "yeya",
+      "marca": "Yeya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -50,7 +50,7 @@
       "precio": 1500,
       "unidad de medida":"1.5lt",
       "categoria": "alimentos",
-      "marca": "probiotico",
+      "marca": "Probiotico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 3500,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gouda-premiun",
+      "marca": "Gouda-Premiun",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 200,
       "unidad de medida":"85gm",
       "categoria": "alimentos",
-      "marca": "melans",
+      "marca": "Melans",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 800,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "mailu",
+      "marca": "Mailu",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 750,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "penela",
+      "marca": "Penela",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 700,
       "unidad de medida":"700ml",
       "categoria": "alimentos",
-      "marca": "zer",
+      "marca": "Zer",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 800,
       "unidad de medida":"595gr",
       "categoria": "alimentos",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

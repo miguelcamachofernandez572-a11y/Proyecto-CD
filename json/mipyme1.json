@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":72,
       "categoria": "Higiene",
-      "marca": "DEC",
+      "marca": "Dec",
       "disponible": true,
       "descuento": 0.0
     },
@@ -20,7 +20,7 @@
       "precio": 5500,
       "unidad de medida":8,
       "categoria": "Higiene",
-      "marca": "TB-CARE",
+      "marca": "Tb-CARE",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 1000,
       "unidad de medida":"1L",
       "categoria": "alimentos",
-      "marca": "VIMA",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2200,
       "unidad de medida":"1lb",
       "categoria": "alimentos",
-      "marca": "GOUDA",
+      "marca": "Gouda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 250,
       "unidad de medida":"700gr",
       "categoria": "alimentos",
-      "marca": "KEAT",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "GOYA",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 1200,
       "unidad de medida":"1U",
       "categoria": "",
-      "marca": "saltitacos",
+      "marca": "Saltitacos",
       "disponible": true,
       "descuento": 0.0
     }

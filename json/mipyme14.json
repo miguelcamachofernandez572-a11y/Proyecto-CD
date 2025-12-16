@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.1353, -82.38853",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":"72u",
       "categoria": "Higiene",
-      "marca": "dec",
+      "marca": "Dec",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 1000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "vima",
+      "marca": "Vima",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "mulata",
+      "marca": "Mulata",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2200,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 300,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "keat",
+      "marca": "Keat",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 580,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "rahinal",
+      "marca": "Rahinal",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 920,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "coam",
+      "marca": "Coam",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":1200,
       "unidad de medida":"240gr",
       "categoria": "alimentos",
-      "marca": "space pop",
+      "marca": "Space Pop",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 800,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "oylum",
+      "marca": "Oylum",
       "disponible": true,
       "descuento": 0.0
     }

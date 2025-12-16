@@ -10,7 +10,7 @@
       "precio": 600,
       "unidad de medida":"60u",
       "categoria": "Higiene",
-      "marca": "tena",
+      "marca": "Tena",
       "disponible": true,
       "descuento": 0.0
     },
@@ -20,7 +20,7 @@
       "precio": 4200,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "comfortime",
+      "marca": "Comfortime",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4500,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "aurora",
+      "marca": "Aurora",
       "disponible": true,
       "descuento": 0.0
     },
@@ -70,7 +70,7 @@
       "precio": 350,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "cocinero",
+      "marca": "Cocinero",
       "disponible": true,
       "descuento": 0.0
     },
@@ -100,7 +100,7 @@
       "precio": 200,
       "unidad de medida":"85gr",
       "categoria": "alimentos",
-      "marca": "melans",
+      "marca": "Melans",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 550,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "rampinelli",
+      "marca": "Rampinelli",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "plato ricco",
+      "marca": "Plato Rico",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 850,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "sor",
+      "marca": "Sor",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -149,7 +149,7 @@
       "precio": 200,
       "unidad de medida":"270gr",
       "categoria": "alimentos",
-      "marca": "festival",
+      "marca": "Festival",
       "disponible": true,
       "descuento": 0.0
     }

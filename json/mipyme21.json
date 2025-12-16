@@ -1,5 +1,5 @@
 {
-  "localizacion": "",
+  "localizacion": "23.14227, -82.37987",
   "servicio_a_domicilio": {
     "valor": false
   },
@@ -10,7 +10,7 @@
       "precio": 750,
       "unidad de medida":"60",
       "categoria": "Higiene",
-      "marca": "my at",
+      "marca": "My-At",
       "disponible": true,
       "descuento": 0.0
     },
@@ -40,7 +40,7 @@
       "precio": 2000,
       "unidad de medida":"1lt",
       "categoria": "alimentos",
-      "marca": "macro food",
+      "marca": "Macro Food",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4500,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "aurora",
+      "marca": "Aurora",
       "disponible": true,
       "descuento": 0.0
     },
@@ -90,7 +90,7 @@
       "precio": 2500,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "gooda",
+      "marca": "Gooda",
       "disponible": true,
       "descuento": 0.0
     },
@@ -110,7 +110,7 @@
       "precio": 850,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -120,7 +120,7 @@
       "precio": 900,
       "unidad de medida":"1kg",
       "categoria": "alimentos",
-      "marca": "goya",
+      "marca": "Goya",
       "disponible": true,
       "descuento": 0.0
     },
@@ -130,7 +130,7 @@
       "precio": 990,
       "unidad de medida":"1l",
       "categoria": "alimentos",
-      "marca": "sarita",
+      "marca": "Sarita",
       "disponible": true,
       "descuento": 0.0
     },{
@@ -139,7 +139,7 @@
       "precio":1300,
       "unidad de medida":"500gr",
       "categoria": "alimentos",
-      "marca": "hiperdino",
+      "marca": "Hiperdino",
       "disponible":true,
       "descuento": 0.0
     },
@@ -149,7 +149,7 @@
       "precio": 1000,
       "unidad de medida":"800gr",
       "categoria": "alimentos",
-      "marca": "hiperdino",
+      "marca": "Hiperdino",
       "disponible": true,
       "descuento": 0.0
     }

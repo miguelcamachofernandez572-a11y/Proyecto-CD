@@ -20,7 +20,7 @@
       "precio": 5300,
       "unidad de medida":"8u",
       "categoria": "Higiene",
-      "marca": "TB-Care",
+      "marca": "Tb-Care",
       "disponible": true,
       "descuento": 0.0
     },
@@ -60,7 +60,7 @@
       "precio": 4500,
       "unidad de medida":"2kg",
       "categoria": "alimentos",
-      "marca": "nicoliny",
+      "marca": "Nicoliny",
       "disponible": true,
       "descuento": 0.0
     },
