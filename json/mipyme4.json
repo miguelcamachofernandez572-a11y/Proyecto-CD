@@ -1,5 +1,5 @@
 {
-  "localizacion": "23.13233° N, 82.36471° O ",
+  "localizacion": "23.13233,-82.36471",
   "servicio_a_domicilio": {
     "valor": false
   },
