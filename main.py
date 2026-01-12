@@ -107,7 +107,7 @@ def grafico_precios_marca_producto(producto_buscado="pollo"):
 
     barras = plt.barh(marcas, precios, color="#9c9386") # hago gráfico de barras horizontal
     plt.bar_label(barras, unidades, label_type="edge") # pongo la unidad al lado de cada barra
-    plt.title("Precios de " + producto_buscado + " ordenados")
+    plt.title("Gráfico de las marcas de " + producto_buscado )
     plt.ylabel("Marca")
     plt.xlabel("Precio")
     plt.grid(axis="x", linestyle="--", alpha=0.6)  # líneas de guía en el eje X
@@ -138,7 +138,7 @@ def grafico_disponibilidad_mypimes():
         markersize=15 
         )
     plt.title(
-        "Disponibilidad de las mipymes",    
+        "Gráfico de disponibilidad de productos de las mipymes",    
     fontsize=16,                    
     fontweight="bold"
     )
@@ -151,7 +151,7 @@ def grafico_disponibilidad_mypimes():
 def comparacion_precio_mipymes(producto_comparar):
     # funcíon que me compara el precio de un producto en diferentes mipymes
     precios={}
-    pension_promedio=4000
+    pension_minima=3056
     cambio_a_usd=450
     precios_en_usd=[]
     for archivo in archivos: # recorro los archivos , los abro y los convierto en diccionario
@@ -171,9 +171,9 @@ def comparacion_precio_mipymes(producto_comparar):
         
     plt.scatter(claves_ordenadas,precios_en_usd,s=300,color="#9c9386",marker="*")
     # hago un gráfico de puntos donde los cambio nuevamente por estrellas le asigno un color y aumento el tamaño de las estrellas
-    plt.title("Precio del " + producto_comparar + " en usd todas las mipymes")
+    plt.title("Precio del " + producto_comparar + " en usd en todas las mipymes")
      # Pongo una línea que muestra la pensión promedio en usd
-    plt.axhline(y=pension_promedio/cambio_a_usd,color="black",linestyle="--",linewidth=2,label="Pensión promedio en USD")
+    plt.axhline(y=pension_minima/cambio_a_usd,color="black",linestyle="--",linewidth=2,label="Pensión mínima en USD")
     plt.legend()# muestro la leyenda de la linea
     plt.text(# escribo cuanto es la pension promedio en usd
          x=-3.50, y=8.90, 

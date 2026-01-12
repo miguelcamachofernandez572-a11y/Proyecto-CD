@@ -1,7 +1,7 @@
 {
   "localizacion": "23.13130,-82.37546",
   "servicio_a_domicilio": {
-    "valor": true
+    "valor": false
   },
   "productos": [
     {
