@@ -152,7 +152,7 @@ def comparacion_precio_mipymes(producto_comparar):
     # funcíon que me compara el precio de un producto en diferentes mipymes
     precios={}
     pension_minima=3056
-    cambio_a_usd=450
+    cambio_a_usd=409
     precios_en_usd=[]
     for archivo in archivos: # recorro los archivos , los abro y los convierto en diccionario
         with open(f"json/{archivo}",encoding="utf-8") as file:
@@ -177,7 +177,7 @@ def comparacion_precio_mipymes(producto_comparar):
     plt.legend()# muestro la leyenda de la linea
     plt.text(# escribo cuanto es la pension promedio en usd
          x=3, y=7.5, 
-    s=f"Pensión mínima: {6.79:.2f} usd",
+    s=f"{7.5:.2f} usd",
     ha="center", va="top", fontsize=10, color="black", backgroundcolor="white")
     plt.xlabel("Mipymes",fontsize=12)
     plt.ylabel("Precio en usd($)",fontsize=12)
