@@ -176,8 +176,8 @@ def comparacion_precio_mipymes(producto_comparar):
     plt.axhline(y=pension_minima/cambio_a_usd,color="black",linestyle="--",linewidth=2,label="Pensión mínima en USD")
     plt.legend()# muestro la leyenda de la linea
     plt.text(# escribo cuanto es la pension promedio en usd
-         x=-3.50, y=8.90, 
-    s=f"Pensión promedio: {8.90:.2f} usd",
+         x=3, y=7.5, 
+    s=f"Pensión mínima: {6.79:.2f} usd",
     ha="center", va="top", fontsize=10, color="black", backgroundcolor="white")
     plt.xlabel("Mipymes",fontsize=12)
     plt.ylabel("Precio en usd($)",fontsize=12)
