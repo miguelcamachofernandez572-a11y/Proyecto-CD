@@ -36,19 +36,46 @@ diccionario = {
     "cereales":promedio("cereales"),
     "galletas":promedio("galletas")
 }
+unidades = {
+    "Pan": "bolsa",
+    "Leche": "litro",
+    "yogurt": "litro",
+    "aceite": "litro",
+    "Pañales": "paquete",
+    "Toallitas húmedas": "paquete",
+    "pollo": "kg",
+    "picadillo": "kg",
+    "huevo": "kg",
+    "queso": "kg",
+    "sopas": "kg",
+    "arroz": "kg",
+    "frijoles": "kg",
+    "cereales": "kg",
+    "galletas": "kg"
+}
+
 
 def grafico_precio_promedio_vs_pension_minima(diccionario):
     # función que me compara visualmente el precio promedio de un producto con la pension mínima de un jubilado
     keys = diccionario.keys()
     values = diccionario.values()
 
-    plt.bar(keys,values,color="#6a4d57")
+    barras=plt.bar(keys,values,color="#6a4d57")
     plt.axhline(y=3056,color="#9c9386",ls="--",label="Pensión mínima")#línea que marca la pensión mínima
     plt.legend()#  muestro la leyenda
     plt.title("Precio promedio de productos")
     plt.annotate("Pensión Mínima: 3056",(1,3000),(0,2800))
     plt.xticks(rotation=45) # giro los nombres para que se lean mejor
     plt.tight_layout()# ajusto el gráfico para que no se corte
+    for barra, producto in zip(barras, keys):
+        altura = barra.get_height()# valor de la barra
+        unidad = unidades[producto]# unidad correspondiente
+        plt.text(
+        barra.get_x() + barra.get_width()/2, # posición X centrada
+        altura + 50,# un poco arriba de la barra
+        f"{altura} pesos/{unidad}",# texto mostrado
+        ha="center", va="bottom", fontsize=8, color="black"
+    )
     plt.show()# muestro el gráfico
 
 
