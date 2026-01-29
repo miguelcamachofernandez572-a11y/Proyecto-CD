@@ -53,19 +53,17 @@ unidades = {
     "cereales": "kg",
     "galletas": "kg"
 }
-
-
-def grafico_precio_promedio_vs_pension_minima(diccionario):
-    # función que me compara visualmente el precio promedio de un producto con la pension mínima de un jubilado
+def grafico_precio_promedio_vs_pension_minima(diccionario,unidades):
+# función que me compara visualmente el precio promedio de un producto con la pension mínima de un jubilado
+    plt.figure(figsize=(18,8))
     keys = diccionario.keys()
     values = diccionario.values()
-
     barras=plt.bar(keys,values,color="#6a4d57")
     plt.axhline(y=3056,color="#9c9386",ls="--",label="Pensión mínima")#línea que marca la pensión mínima
     plt.legend()#  muestro la leyenda
     plt.title("Precio promedio de productos")
     plt.annotate("Pensión Mínima: 3056",(1,3000),(0,2800))
-    plt.xticks(rotation=45) # giro los nombres para que se lean mejor
+    plt.xticks(rotation=60) # giro los nombres para que se lean mejor
     plt.tight_layout()# ajusto el gráfico para que no se corte
     for barra, producto in zip(barras, keys):
         altura = barra.get_height()# valor de la barra
@@ -79,8 +77,10 @@ def grafico_precio_promedio_vs_pension_minima(diccionario):
     plt.show()# muestro el gráfico
 
 
+
 def grafico_servicio_domicilio():
     # función para ver cuantas mipymes ofrecen servicio a domicilio
+    
     disponible=0
     nodisponible=0
     for archivo in archivos: # recorro los archivos , los abro y los convierto en diccionario 
@@ -92,6 +92,7 @@ def grafico_servicio_domicilio():
                                 disponible += 1
                             else:
                                 nodisponible += 1
+    plt.figure(figsize=(18,8))
     plt.pie( # hago gráfico circular o de pastel
     [disponible, nodisponible],
     labels=["Disponible", "No disponible"],
@@ -131,7 +132,7 @@ def grafico_precios_marca_producto(producto_buscado="pollo"):
         marcas.append(p["marca"])
         precios.append(p["precio"])
         unidades.append(p["unidad_de_medida"])
-
+    plt.figure(figsize=(18,8))
     barras = plt.barh(marcas, precios, color="#9c9386") # hago gráfico de barras horizontal
     plt.bar_label(barras, unidades, label_type="edge") # pongo la unidad al lado de cada barra
     plt.title("Gráfico de las marcas de " + producto_buscado )
@@ -157,6 +158,7 @@ def grafico_disponibilidad_mypimes():
     claves_ordenadas = sorted(disponibilidad.keys(), key=lambda x: int(x.replace("mipyme", "")))
     valores_ordenados = [disponibilidad[k] for k in claves_ordenadas]
 
+    plt.figure(figsize=(18,8))
     plt.plot( # Hago un gráfico de línea 
         claves_ordenadas,valores_ordenados,
         color="#6a4d57",   
@@ -175,6 +177,7 @@ def grafico_disponibilidad_mypimes():
     plt.tight_layout()# ajusto el gráfico para que no se corte
     plt.grid(axis="y", linestyle="--", alpha=0.6)# pongo lineas horizontales de guía
     plt.show()
+
 def comparacion_precio_mipymes(producto_comparar):
     # funcíon que me compara el precio de un producto en diferentes mipymes
     precios={}
@@ -196,9 +199,11 @@ def comparacion_precio_mipymes(producto_comparar):
         nuevo_precio=x/cambio_a_usd
         precios_en_usd.append(nuevo_precio)
         
+    plt.figure(figsize=(18,8))
     plt.scatter(claves_ordenadas,precios_en_usd,s=300,color="#9c9386",marker="*")
     # hago un gráfico de puntos donde los cambio nuevamente por estrellas le asigno un color y aumento el tamaño de las estrellas
     plt.title("Precio del " + producto_comparar + " en usd en todas las mipymes")
+    plt.plot(claves_ordenadas, precios_en_usd, color="#6a4d57", linestyle="-", linewidth=2)
      # Pongo una línea que muestra la pensión promedio en usd
     plt.axhline(y=pension_minima/cambio_a_usd,color="black",linestyle="--",linewidth=2,label="Pensión mínima en USD")
     plt.legend()# muestro la leyenda de la linea
@@ -213,7 +218,7 @@ def comparacion_precio_mipymes(producto_comparar):
     plt.show()
 
 #llamado
-grafico_precio_promedio_vs_pension_minima(diccionario)    
+grafico_precio_promedio_vs_pension_minima(diccionario,unidades)    
 comparacion_precio_mipymes(producto_comparar="pollo")
 grafico_precios_marca_producto(producto_buscado="pollo")
 grafico_disponibilidad_mypimes()            
